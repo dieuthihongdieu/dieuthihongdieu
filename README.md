@@ -12,14 +12,14 @@
 - I passionate about studying how to improve performance every single day. 
 - I am seeking to **leverage my analytical skills ** to improve corporate performance as an analyst. 
 
-**My philosophy **
+**My philosophy:**
 
-“I believe that with the right education and dedication, nothing is impossible!.”
+**```I believe that with the right education and dedication, nothing is impossible!```***
 <br>
  If I want something very very much , I make all the efforts, decisions and live with it. I don’t stop persisting until I achieve this goal. There’s nothing magical or mystique about it but pure math probability based on increased determination, decisiveness, effort and luck!
 
 <br>
-**Statistic:**
+Statistic:
 [![stats](https://github-readme-stats.vercel.app/api?username=dieuthihongdieu&show_icons=true&count_private=true&title_color=ffcc00&text_color=ffcc00&icon_color=ffcc00&no-bg=true&hide_border=true)](https://github.com/dieuthihongdieu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieuthihongdieu&layout=compact)](https://github.com/dieuthihongdieu)
 ## View My Repositories 👇
